@@ -48,7 +48,9 @@ Complemento mi stack con herramientas y utilidades para mejorar productividad y 
 </p>
 
 ---
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Elion-hub&show_icons=true&theme=radical)
+![Elion-hub's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elion-hub&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elion-hub&layout=compact&theme=radical)
 
 
 
