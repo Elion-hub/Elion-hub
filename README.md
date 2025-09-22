@@ -29,6 +29,11 @@ Aquí algunas de las tecnologías que utilizo y con las que me siento cómodo tr
 - Crear proyectos integrales **Fullstack** conectando frontend y backend
 
 ---
+## 📊 Mis estadísticas de GitHub
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Elion-hub&show_icons=true&theme=radical" alt="Elion GitHub Stats"/>
+</p>
 
 ## 📫 Contacto
 
