@@ -40,5 +40,5 @@ Aquí algunas de las tecnologías que utilizo y con las que me siento cómodo tr
 - [GitHub](https://github.com/Elion-hub)
 
 ---
-
+![Demo del juego](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)
 💡 **Tip:** Siempre estoy abierto a colaborar en proyectos interesantes y aprender nuevas tecnologías.
