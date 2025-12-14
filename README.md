@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy Jose Maria Garcia
 
-🎓 Soy desarrollador en formación, con un fuerte enfoque en el **backend con Java y Spring Boot**.  
+🎓 Desarrollador en formación, con un fuerte enfoque en el **backend con Java y Spring Boot**.  
 💻 Me apasiona crear aplicaciones robustas y aprender nuevas tecnologías para mejorar mis proyectos.  
 🚀 Aunque mi trayectoria está orientada al backend, también refuerzo mis conocimientos frontend para poder abordar proyectos web de manera integral.  
 ✨ Mi objetivo es crecer como developer y consolidar un perfil profesional sólido en el desarrollo de aplicaciones web.
